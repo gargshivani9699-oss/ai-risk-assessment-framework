@@ -40,5 +40,21 @@ This register documents identified AI risks, their severity, ownership and mitig
 - Update risk scores after controls are implemented.
 - Escalate critical risks to management.
 
+## Control Assessment – AI Hiring System
+
+| Risk ID | Risk | Existing Control | Control Owner | Evidence Required | Effectiveness |
+|---|---|---|---|---|---|
+| R-01 | Gender Bias | Bias testing and monitoring | AI/ML Team | Bias testing reports and model validation results | Not Verified |
+| R-02 | Candidate Data Exposure | Encryption and access restrictions | Information Security | Encryption configuration and access logs | Not Verified |
+| R-03 | Incorrect Candidate Ranking | Human review of shortlisted candidates | HR Team | Human review records and override logs | Not Verified |
+| R-04 | Lack of Transparency | Candidate notification and explanation process | HR / AI Governance | Candidate notices and explanation records | Not Verified |
+| R-05 | Excessive Employee Access | Role-Based Access Control (RBAC) | Information Security | Access matrix and access review records | Not Verified |
+
+### Assessment Rule
+
+A control must not be marked Effective based only on management confirmation or policy documentation.
+
+Evidence must be reviewed and control operation must be verified before effectiveness is confirmed.
+
 ## 6. Conclusion
 The AI Risk Register provides a structured way to track, prioritize and monitor AI-related risks.
