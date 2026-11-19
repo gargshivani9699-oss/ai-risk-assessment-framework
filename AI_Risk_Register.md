@@ -169,3 +169,33 @@ The submitted documents establish the existence of a documented process but do n
 **Residual Risk: Not Reassessed**
 
 Note: This is a hypothetical training scenario.
+
+## Sample Evidence Testing – R-04 Transparency and Explainability
+
+### Scenario
+The organization claims that candidates are informed when AI is used in recruitment decisions.
+
+### Evidence Observation
+- AI transparency policy was provided.
+- Candidate notification template was available.
+- Actual notification delivery records were missing.
+- Documented explanations of AI-generated recommendations were unavailable.
+
+### Auditor Analysis
+The existence of a transparency policy and notification template does not demonstrate that candidates receive meaningful information about AI-assisted decisions.
+
+### Auditor Recommendation
+1. Request actual candidate notification records.
+2. Verify disclosure of AI involvement in recruitment.
+3. Review whether candidates receive understandable explanations.
+4. Check whether a process exists to raise concerns or request human review.
+5. Verify implementation through sample records.
+
+### Audit Decision
+**Status: Open – Implementation Evidence Pending**
+
+**Control Effectiveness: Not Verified**
+
+**Residual Risk: Not Reassessed**
+
+Note: This is a hypothetical training scenario.
