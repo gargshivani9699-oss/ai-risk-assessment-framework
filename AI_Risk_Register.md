@@ -105,5 +105,37 @@ Further investigation is required to understand:
 
 Note: This is a hypothetical training scenario, not actual testing of a deployed AI model.
 
+## Sample Evidence Testing – R-02 Candidate Data Privacy
+
+### Scenario
+The organization submitted hypothetical encryption configuration and data access policy documents.
+
+### Evidence Observation
+- Encryption configuration was provided.
+- Data access policy was available.
+- Employee access logs were not provided.
+- Periodic access review evidence was missing.
+
+### Auditor Analysis
+Encryption alone is insufficient to establish effective access governance.
+
+The absence of access logs and periodic access reviews creates an evidence gap regarding unauthorized or excessive employee access.
+
+### Auditor Recommendation
+1. Request system access logs.
+2. Verify role-based access restrictions.
+3. Review employee access permissions.
+4. Check periodic access review records.
+5. Verify whether inappropriate access is detected and addressed.
+
+### Audit Decision
+**Status: Open – Evidence Verification Pending**
+
+**Control Effectiveness: Not Verified**
+
+**Residual Risk: Not Reassessed**
+
+Note: This is a hypothetical training scenario.
+
 ## 6. Conclusion
 The AI Risk Register provides a structured way to track, prioritize and monitor AI-related risks.
