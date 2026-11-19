@@ -41,3 +41,51 @@ This is an independent educational project using simulated scenarios. It does no
 
 ## Author
 Shivani Garg
+
+---
+
+## Project Highlights
+
+This project demonstrates a structured AI Governance and Risk Assessment Framework applied to a hypothetical AI-powered recruitment system.
+
+### Key Activities
+
+- Identified AI-related operational, ethical and governance risks.
+- Assessed inherent risks using Likelihood × Impact scoring.
+- Documented risk mitigation controls and control owners.
+- Defined evidence requirements for control assessment.
+- Conducted hypothetical evidence review exercises.
+- Documented audit findings and corrective action plans.
+- Assessed residual risk based on hypothetical verified evidence.
+- Developed management escalation and ongoing monitoring recommendations.
+
+### Framework Alignment
+
+The project incorporates concepts from the NIST AI Risk Management Framework:
+
+- GOVERN
+- MAP
+- MEASURE
+- MANAGE
+
+### Practical Skills Demonstrated
+
+- AI Risk Identification
+- Risk Assessment and Scoring
+- AI Governance
+- Control Assessment
+- Evidence Review
+- Audit Findings
+- Corrective Action Planning
+- Residual Risk Assessment
+- Governance Monitoring
+
+### Project Scope and Limitations
+
+This is a self-developed learning and portfolio project based on a hypothetical AI hiring system.
+
+It does not represent an actual corporate audit, independent AI model validation, or real-world implementation of enterprise controls.
+
+### Objective
+
+To demonstrate practical understanding of how AI-related risks can be identified, assessed, documented, monitored and governed throughout an AI system's lifecycle.
