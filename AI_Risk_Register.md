@@ -139,3 +139,33 @@ Note: This is a hypothetical training scenario.
 
 ## 6. Conclusion
 The AI Risk Register provides a structured way to track, prioritize and monitor AI-related risks.
+
+## Sample Evidence Testing – R-03 AI Accuracy and Human Oversight
+
+### Scenario
+The organization claims that HR personnel review AI-generated candidate rankings before final selection.
+
+### Evidence Observation
+- Human oversight policy was provided.
+- AI ranking methodology was documented.
+- Actual HR review records were not provided.
+- AI recommendation override records were unavailable.
+
+### Auditor Analysis
+The submitted documents establish the existence of a documented process but do not demonstrate that human oversight operates effectively.
+
+### Auditor Recommendation
+1. Request actual HR review records.
+2. Obtain AI recommendation override logs.
+3. Verify whether HR can challenge AI-generated rankings.
+4. Review procedures for handling incorrect rankings.
+5. Assess whether human reviewers have sufficient authority and information.
+
+### Audit Decision
+**Status: Open – Operating Evidence Pending**
+
+**Control Effectiveness: Not Verified**
+
+**Residual Risk: Not Reassessed**
+
+Note: This is a hypothetical training scenario.
