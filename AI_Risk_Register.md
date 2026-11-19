@@ -72,5 +72,38 @@ The submitted documentation is insufficient to verify the operating effectivenes
 
 Residual risk scores have not been reduced because control effectiveness has not yet been established.
 
+## Sample Evidence Testing – R-01 Gender Bias
+
+### Scenario
+The organization submitted a hypothetical bias testing report dated 10 November 2026.
+
+### Evidence Observation
+The report indicated different shortlisting rates for male and female candidates.
+
+### Auditor Analysis
+The existence of a testing report does not establish that the AI system is fair.
+
+Further investigation is required to understand:
+- Whether the difference is statistically and practically significant.
+- Whether the dataset contains historical gender bias.
+- Whether model features or selection criteria contribute to the disparity.
+- Whether the organization has investigated the root cause.
+
+### Auditor Recommendation
+1. Request detailed bias testing results and methodology.
+2. Obtain root-cause analysis.
+3. Request documented corrective actions.
+4. Review results after remediation.
+5. Reassess control effectiveness.
+
+### Audit Decision
+**Status: Open – Further Investigation Required**
+
+**Control Effectiveness: Not Verified**
+
+**Residual Risk: Not Reassessed**
+
+Note: This is a hypothetical training scenario, not actual testing of a deployed AI model.
+
 ## 6. Conclusion
 The AI Risk Register provides a structured way to track, prioritize and monitor AI-related risks.
