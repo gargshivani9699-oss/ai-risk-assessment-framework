@@ -199,3 +199,33 @@ The existence of a transparency policy and notification template does not demons
 **Residual Risk: Not Reassessed**
 
 Note: This is a hypothetical training scenario.
+
+## Sample Evidence Testing – R-05 Excessive Employee Access
+
+### Scenario
+The organization claims that Role-Based Access Control (RBAC) restricts access to candidate information.
+
+### Evidence Observation
+- RBAC policy was provided.
+- Employee access policy was available.
+- Actual user permission reports were missing.
+- Periodic access review records were unavailable.
+
+### Auditor Analysis
+The existence of an RBAC policy does not establish that access restrictions are correctly implemented or periodically reviewed.
+
+### Auditor Recommendation
+1. Request the current user access matrix.
+2. Verify permissions against employee job responsibilities.
+3. Identify excessive or unnecessary access.
+4. Review access removal procedures for transferred or exited employees.
+5. Obtain periodic access review records.
+
+### Audit Decision
+**Status: Open – Implementation Evidence Pending**
+
+**Control Effectiveness: Not Verified**
+
+**Residual Risk: Not Reassessed**
+
+Note: This is a hypothetical training scenario.
