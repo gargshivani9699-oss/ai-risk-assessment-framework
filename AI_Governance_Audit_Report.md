@@ -89,3 +89,39 @@ The submitted evidence was insufficient to establish the operating effectiveness
 ### Important Limitation
 
 This is a hypothetical, learning-based AI Governance assessment. It does not represent an actual corporate audit, deployed AI system evaluation or independently verified control testing.
+
+## 11. Risk Treatment and Management Decisions
+
+| Risk ID | Risk Level / Status | Recommended Treatment | Decision Owner |
+|---|---|---|---|
+| R-01 | Open – Bias investigation pending | Investigate disparity and implement corrective measures | AI Governance / Business Management |
+| R-02 | Residual High | Continue access monitoring and consider additional safeguards | Information Security / Management |
+| R-03 | Open – Human oversight evidence pending | Establish and verify human review procedures | HR / AI Governance |
+| R-04 | Open – Transparency evidence pending | Implement and verify candidate disclosures | HR / AI Governance |
+| R-05 | Open – Access evidence pending | Review permissions and enforce least privilege | Information Security |
+
+### Management Responsibilities
+
+Management should:
+
+1. Review significant residual risks.
+2. Approve or reject risk acceptance with documented justification.
+3. Assign resources and accountable owners.
+4. Monitor corrective action progress.
+5. Escalate risks that exceed approved risk tolerance.
+
+### Auditor Responsibilities
+
+The auditor should:
+
+1. Report control gaps objectively.
+2. Verify remediation evidence.
+3. Reassess residual risk.
+4. Report unresolved high or critical risks.
+5. Maintain an independent assessment.
+
+### Final Principle
+
+Risk acceptance is a management decision, not an auditor's unilateral decision.
+
+Note: Hypothetical case-study recommendations, not actual management approvals.
