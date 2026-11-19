@@ -61,3 +61,31 @@ The organization should strengthen:
 **Open – Pending Remediation and Evidence Verification**
 
 Note: This is a hypothetical, learning-based case study. No actual corporate audit or independent control testing was performed.
+
+## 10. Consolidated Evidence Assessment
+
+| Finding ID | Risk Area | Key Evidence Gap | Control Status | Audit Status |
+|---|---|---|---|---|
+| AF-001 | Gender Bias | Root-cause analysis and corrective action missing | Not Verified | Open |
+| AF-002 | Candidate Data Privacy | Access logs and access review missing | Not Verified | Open |
+| AF-003 | AI Accuracy and Human Oversight | HR review and override records missing | Not Verified | Open |
+| AF-004 | Transparency | Notification delivery and explanation evidence missing | Not Verified | Open |
+| AF-005 | Excessive Employee Access | User permission and access review records missing | Not Verified | Open |
+
+### Overall Assessment
+
+Five risk areas were examined through hypothetical evidence-testing scenarios.
+
+The submitted evidence was insufficient to establish the operating effectiveness of the identified controls.
+
+### Risk Treatment Decision
+
+- All five findings remain Open.
+- Corrective actions have been assigned to relevant owners.
+- Additional evidence is required.
+- Residual risk scores remain pending reassessment.
+- No finding should be closed without evidence verification.
+
+### Important Limitation
+
+This is a hypothetical, learning-based AI Governance assessment. It does not represent an actual corporate audit, deployed AI system evaluation or independently verified control testing.
