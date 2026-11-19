@@ -229,3 +229,30 @@ The existence of an RBAC policy does not establish that access restrictions are 
 **Residual Risk: Not Reassessed**
 
 Note: This is a hypothetical training scenario.
+
+## Residual Risk Assessment – R-02 Privacy
+
+### Hypothetical Remediation Scenario
+
+The organization implemented RBAC, enabled access logging and completed periodic access reviews.
+
+The auditor reviewed sample permission records and access logs. No unauthorized access was identified in the hypothetical sample reviewed.
+
+### Risk Reassessment
+
+| Parameter | Inherent Risk | Residual Risk |
+|---|---:|---:|
+| Likelihood | 3 | 2 |
+| Impact | 5 | 5 |
+| Risk Score | 15 | 10 |
+| Risk Level | High | High |
+
+### Auditor Conclusion
+
+The implemented controls demonstrated improved access governance in the hypothetical assessment.
+
+Likelihood was reduced from 3 to 2 based on the evidence reviewed. Impact remained unchanged because a potential candidate-data breach could still have significant consequences.
+
+Residual risk remains High and requires continued monitoring and appropriate management acceptance.
+
+Note: Illustrative training assessment, not actual corporate evidence or testing.
