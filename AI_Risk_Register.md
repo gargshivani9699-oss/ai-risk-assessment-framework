@@ -56,5 +56,21 @@ A control must not be marked Effective based only on management confirmation or 
 
 Evidence must be reviewed and control operation must be verified before effectiveness is confirmed.
 
+## Evidence Review Findings
+
+| Risk ID | Evidence Gap | Auditor Decision | Status |
+|---|---|---|---|
+| R-01 | Bias testing report missing | Request testing evidence | Open |
+| R-02 | Access logs missing | Request access logs | Open |
+| R-03 | Human review records missing | Request review records | Open |
+| R-04 | Implementation proof missing | Request usage evidence | Open |
+| R-05 | Access review records missing | Request access review evidence | Open |
+
+### Overall Audit Conclusion
+
+The submitted documentation is insufficient to verify the operating effectiveness of the identified controls. All five risks remain open pending evidence review.
+
+Residual risk scores have not been reduced because control effectiveness has not yet been established.
+
 ## 6. Conclusion
 The AI Risk Register provides a structured way to track, prioritize and monitor AI-related risks.
