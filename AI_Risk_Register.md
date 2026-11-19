@@ -256,3 +256,28 @@ Likelihood was reduced from 3 to 2 based on the evidence reviewed. Impact remain
 Residual risk remains High and requires continued monitoring and appropriate management acceptance.
 
 Note: Illustrative training assessment, not actual corporate evidence or testing.
+
+## Consolidated Control Effectiveness Assessment
+
+| Risk ID | Control | Evidence Reviewed | Effectiveness | Residual Risk Decision |
+|---|---|---|---|---|
+| R-01 | Bias testing and monitoring | Testing report shows disparity; root cause unresolved | Partially Effective | Not Reassessed |
+| R-02 | RBAC and access monitoring | Hypothetical permission records and access logs reviewed | Effective | 10 – High |
+| R-03 | Human oversight | Policy available; actual review records missing | Not Verified | Not Reassessed |
+| R-04 | Transparency and explainability | Template available; delivery evidence missing | Not Verified | Not Reassessed |
+| R-05 | Least privilege and access reviews | Policy available; permission evidence missing | Not Verified | Not Reassessed |
+
+### Assessment Principles
+
+1. Effective: Control implementation and operation are supported by sufficient evidence.
+2. Partially Effective: Some control activity exists, but important gaps remain.
+3. Ineffective: Evidence demonstrates that the control is not adequately preventing or managing the risk.
+4. Not Verified: Evidence is insufficient to establish control effectiveness.
+
+### Auditor Conclusion
+
+Only R-02 has been assigned an illustrative residual risk score following hypothetical evidence verification.
+
+Other risk scores remain pending further assessment.
+
+Note: This is a hypothetical training assessment.
