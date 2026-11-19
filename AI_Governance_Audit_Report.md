@@ -125,3 +125,47 @@ The auditor should:
 Risk acceptance is a management decision, not an auditor's unilateral decision.
 
 Note: Hypothetical case-study recommendations, not actual management approvals.
+
+## 12. Ongoing AI Governance Monitoring
+
+### 1. Bias and Fairness Monitoring
+- Conduct periodic demographic fairness assessments.
+- Investigate significant differences in candidate outcomes.
+- Maintain testing reports and corrective action records.
+
+### 2. Data Privacy Monitoring
+- Review access permissions periodically.
+- Monitor access logs for unusual activities.
+- Enforce data retention and deletion requirements.
+
+### 3. Human Oversight Monitoring
+- Maintain HR review and override records.
+- Ensure reviewers can challenge AI recommendations.
+- Escalate incorrect or potentially harmful outputs.
+
+### 4. Transparency Monitoring
+- Verify candidate notifications.
+- Maintain clear information about AI involvement.
+- Provide appropriate channels for queries and complaints.
+
+### 5. Access Governance Monitoring
+- Review employee permissions.
+- Remove unnecessary access.
+- Maintain access review evidence.
+
+### Monitoring Accountability
+
+| Activity | Responsible Function |
+|---|---|
+| Bias monitoring | AI/ML Team |
+| Privacy monitoring | Information Security |
+| Human oversight | HR |
+| Transparency | HR / AI Governance |
+| Access reviews | Information Security |
+| Governance oversight | AI Governance / Management |
+
+### Final Recommendation
+
+The organization should establish continuous monitoring, periodic control reviews, documented accountability and evidence-based risk reassessment.
+
+Note: These are proposed governance recommendations for a hypothetical AI hiring system.
